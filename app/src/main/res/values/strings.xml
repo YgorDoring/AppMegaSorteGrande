@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ganhei - Mega Sorte Grande</string>
+    <string name="title">Aposte e Ganhe</string>
+    <string name="numer_hint">Quantos números você vai jogar?</string>
+    <string name="number_hint">Quantos números vai apostar? 6 - 15</string>
+    <string name="numberGenerator">ADIVINHAR NÚMEROS</string>
+</resources>
